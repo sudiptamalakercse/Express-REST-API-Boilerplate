@@ -112,7 +112,7 @@ In the development server by default, it will open at port **5000**, and in the 
 
 - [@ahmmedabir9](https://github.com/ahmmedabir9)
 
-## Contributors
+## Contributors 1
 
 <a href="https://github.com/ahmmedabir9/express-rest-boilerplate/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ahmmedabir9/express-rest-boilerplate" />
